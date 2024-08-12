@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+env/
+
+# Docker
+*.log
+docker-compose.yml
+
+# OS generated files
+.DS_Store
+Thumbs.db
